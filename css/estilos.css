@@ -1,14 +1,14 @@
 body
-{color:#3d1f9e;
+{color:#333;
 text-align:center;
 font-family:Georgia;
 font-size:16px;
 margin:0;
 padding:0}
 #cabecera{
-    background:rgb(178, 178, 212);
+    background:rgb(149, 101, 71);
     box-shadow:0 2px 20px 0 rgba(174, 88, 88, 0.5);
-    color:#fff;
+    color:#333;
     font-weight:700;
     margin:0;
     padding:.5em}
